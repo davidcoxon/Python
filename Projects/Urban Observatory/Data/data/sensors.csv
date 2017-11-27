@@ -1,0 +1,2 @@
+latest,sensor_height,source,base_height,name,active,type,lon,lat
+2017-11-26 23:13:00,-999,"{'third_party': True, 'fancy_name': 'Wunderground API', 'document': '', 'db_name': 'Wunderground', 'web_display_name': 'Wunderground API (Third Party)'}",-999,IGATGATE2,True,Weather,-1.611953,54.95853
