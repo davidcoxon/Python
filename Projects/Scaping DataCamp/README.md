@@ -13,15 +13,18 @@ This project uses the magic of Beautiful Soup, Regex, and Pandas to automate tha
 I have included a python script and a Jupyter notebook within the repositoty. All of the knowledge required to build this project came from the DataCamp Courses : Importing Data with Python (part 2) and DataScience ToolBox for Python (part 2) 
 
 ![DataCamp](Images/datacamp.png?raw=true)
+
 ![Python](Images/python.png?raw=true)
+
 ![Pandas](Images/pandas.png?raw=true)
-![BeautifulSoup](Images/beautifulsoup.png?raw=true)
+
+![BeautifulSoup](Images/beautifulsoup.jpeg?raw=true)
 
 Useful Links:
 
-[DataCamp](https://Datacamp.com)
-[Python](https://Datacamp.com)
-[Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
+[DataCamp](https://Datacamp.com) • 
+[Python](https://Datacamp.com) • 
+[Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) • 
 [Regex](https://docs.python.org/3/howto/regex.html)
 
-Note: Some of the Datasets are saved as zip files which i have not dealt with in this project.
+Created by David Coxon, March 2018
