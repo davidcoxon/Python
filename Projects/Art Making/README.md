@@ -15,6 +15,8 @@ The tic tac toe code draws 2 sets of parallel lines forming the grid for the gam
 
 While I never got around to building the noughts and crosses game. I did continue to play with the idea of using Ktinder to produce a variety of patterns. The idea being that the project could be used to teach kids to code and to think about the process of making Art.
 
+![random rings](Images/Random_concentric_circles2.png?raw=true)
+
 Useful Links:
 
 [BALTIC Learning](http://baltic.art/learn) • [Tkinter Wikibook](https://en.wikibooks.org/wiki/Python_Programming/Tkinter) • [Noughts & Crosses Game](http://arve0.github.io/example_lessons/python/lessons/Noughts%20and%20Crosses/Noughts%20and%20Crosses.html)
