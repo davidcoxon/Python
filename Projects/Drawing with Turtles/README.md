@@ -25,11 +25,11 @@ Useful Links:
 [Udacity ](https://eu.udacity.com/) • 
 [Coder Dojo](https://www.eventbrite.co.uk/o/coderdojo-north-east-6360746717)
  
-[Source Code](https://github.com/python/cpython/blob/3.6/Lib/turtle.py) • 
+[Turtles Source Code](https://github.com/python/cpython/blob/3.6/Lib/turtle.py) • 
 [Turtles Tutorial](http://coolpythoncodes.com/python-turtle/) •
 [Online Turtles ](https://trinket.io/python/88dd6c94d1)
 
 ![Python](../Images/python.png?raw=true)
-![Jupyter](Images/jupyter.pcx?raw=true)
+![Jupyter](../Images/jupyter.pcx?raw=true)
 
 Created by David Coxon, 2017
