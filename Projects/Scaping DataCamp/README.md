@@ -4,7 +4,7 @@
 
 DataCamp offers interactive R and Python courses on topics in data science, statistics, and machine learning. Learn from a team of expert teachers in the comfort of your browser with video lessons and fun coding challenges.
 
-![DataCamp](Images/datacamp.png?raw=true)
+![DataCamp](../Images/datacamp.png?raw=true)
 
 Each of the DataCamp courses consists of both videos and practice exercises. Both the tutorials and exercises use sample data. Generally the sample data is from opendata sets, available to download from the internet. 
 
@@ -21,6 +21,6 @@ I have included a python script and a Jupyter notebook within the repository. Al
 ##### [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) • 
 ##### [Regex](https://docs.python.org/3/howto/regex.html)
 ##### 
-##### ![Python](Images/python.png?raw=true)
+##### ![Python](../Images/python.png?raw=true)
 ##### 
 ##### Created by David Coxon, March 2018
