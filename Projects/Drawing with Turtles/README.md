@@ -30,6 +30,6 @@ Useful Links:
 [Online Turtles ](https://trinket.io/python/88dd6c94d1)
 
 ![Python](../Images/python.png?raw=true)
-![Jupyter](../Images/jupyter.pcx?raw=true)
+![Jupyter](../Images/jupyter.png?raw=true)
 
 Created by David Coxon, 2017
