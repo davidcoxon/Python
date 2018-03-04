@@ -1,4 +1,4 @@
-# Who’s Turn is it to Make The Coffee.
+# Who’s Turn is it to Make the Coffee.
 
 ## A first Python Project
 ![Python](Images/coffee.jpg?raw=true)
