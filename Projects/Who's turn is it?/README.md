@@ -1,6 +1,13 @@
-# Who’s Turn
+# Who’s Turn is it to Make The Coffee.
 
-This really simple Project was my attempt at creating something in python. All it does is use a random number generator to come up with a number then use an if loop to decide who’s turn it was to make the drinks. 
+## A first Python Project
+![Python](/Images/coffee.jpg?raw=true)
 
-I wrote the code while on holiday in the Lake district with family, and my 9 year old nephew and niece Hannah and Thomas helped come up with the idea.
+This project was my first python project. I'd just started the DataCamp Data Science track and was learning to write functions. At the time I created this code I was on holiday in the English Lake District with my extended family. There are 7 of us, 5 adults and 2 children, so my first function simply help us decide who's turn it was to makes the tea and coffee next.
+
+![Python](../Images/python.png?raw=true)
+
+The project deals with creating a reusable function and a random  number generator enabling the function to decide who’s turn in is to make the coffee. The code is based on the Data Science Toolbox (Part 1) tutorials.
+
+![Datacamp](../Images/datacamp.png?raw=true)
 
