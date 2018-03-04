@@ -41,7 +41,7 @@ While 2017 was all about completing the Data Analysis Track on [DATACAMP](https:
 
 ![UDACITY](Images/udacity.png?raw=true)
 
-Later this I am hoping build on by Data Science foundation by securing a scholarship for a nano degree at ![UDACITY](Images/Udacity.png?raw=true). This would provide plenty of opportunities to add my projects Portfolio.
+Later this I am hoping build on by Data Science foundation by securing a scholarship for a nano degree at [UDACITY](https://eu.udacity.com/nanodegree). This would provide plenty of opportunities to add my projects Portfolio.
 
 ![NE DataScience](Images/nedatascience.jpeg?raw=true)
 
@@ -61,4 +61,4 @@ Later this I am hoping build on by Data Science foundation by securing a scholar
 
 ## other repositories by David Coxon
 
-If you found the python projects notebooks in this repository interesting you might also find some of the notebooks in the [resources repository ](https://github.com/davidcoxon/Python/tree/master/Reference) of use. 
+### If you found the python projects notebooks in this repository interesting you might also find some of the notebooks in the [resources repository ](https://github.com/davidcoxon/Python/tree/master/Reference) of use. 
