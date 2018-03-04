@@ -39,7 +39,7 @@ Many of the more Data Science related projects I have undertaken are based on us
 
 While 2017 was all about completing the Data Analysis Track on [DATACAMP](https://www.datacamp.com.com/). In 2018 I hope to complete the remaining units on Machine learning to complete the Data Science track.
 
-![UDACITY](Images/Udacity.png?raw=true)
+![UDACITY](Images/udacity.png?raw=true)
 
 Later this I am hoping build on by Data Science foundation by securing a scholarship for a nano degree at ![UDACITY](Images/Udacity.png?raw=true). This would provide plenty of opportunities to add my projects Portfolio.
 
@@ -51,7 +51,7 @@ Later this I am hoping build on by Data Science foundation by securing a scholar
 
 [BALTIC](http://baltic.art) 
 
-[DATACAMP](https://www.datacamp.com.com/)
+[DataCamp](https://www.datacamp.com/)
 
 [Becoming a Datascientist](https://www.becomingadatascientist.com/learningclub/)
 
@@ -61,4 +61,4 @@ Later this I am hoping build on by Data Science foundation by securing a scholar
 
 ## other repositories by David Coxon
 
-If you found the python projects notebooks in this repository interesting you might also find some of the notebooks in the [resources repository ](http://baltic.art) of use. 
+If you found the python projects notebooks in this repository interesting you might also find some of the notebooks in the [resources repository ](https://github.com/davidcoxon/Python/tree/master/Reference) of use. 
