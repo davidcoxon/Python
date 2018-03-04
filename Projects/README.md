@@ -60,5 +60,5 @@ Later this I am hoping build on by Data Science foundation by securing a scholar
 [North East Data Science Group](https://www.meetup.com/Newcastle-Upon-Tyne-Data-Science-Meetup/)
 
 ## other repositories by David Coxon
-
-### If you found the python projects notebooks in this repository interesting you might also find some of the notebooks in the [resources repository ](https://github.com/davidcoxon/Python/tree/master/Reference) of use. 
+If you found the python projects notebooks in this repository interesting you might also find some of the notebooks in the [resources repository ](https://github.com/davidcoxon/Python/tree/master/Reference) of use. 
+You may also be interested in the [r repository ](https://github.com/davidcoxon/R)
