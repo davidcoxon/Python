@@ -12,7 +12,7 @@ I started writing code using ‘Basic’ in the 80’s when my parents bought me
 
 ## gallery
 
-![Art Maker](Projects/Images/Gallery/artsquare.png?raw=true)
+![Art Maker](Projects/Images/Gallery/artsquareb.png?raw=true)
 ![Regression](Projects/Images/Gallery/regressionsquareb.png?raw=true)
 ![WordCloud](Projects/Images/Gallery/wordcloudsqureb.png?raw=true)
 
