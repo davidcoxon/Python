@@ -1,0 +1,5 @@
+# Store OAuth authentication credentials in relevant variables
+access_token = "10278362-ICzoaHaD2PLN5ttHHmN6AixaQNNvzq6ddjUvyRmsb"
+access_token_secret = "ZmWl03D3Fwsi64K4tb5B4W1jaYC79HIhFK5sy9U4riKXK"
+consumer_key = "IPXvy6BxZYQE3Gbru0smRH7QV"
+consumer_secret = "b9rt80NQMqtVr8cf0T05lev3nRmdVyh1JZQgekpayfTfoFYVXI"
