@@ -8,7 +8,7 @@ Sorry this project is currently under construction and not yet complete.
 
 The Urban Observatory is the largest set of publicly available real time urban data in the UK. Sensors are gathering data across the city in Newcastle upon Tyne. 
 
-![Newcastle University](Images/newcastleuniversity.svg?raw=true)
+![Newcastle University](Images/newcastleuni.svg?raw=true)
 
 The project from Newcastle University has over 50 data types and counting and millions of individual data points over a growing time duration. 
 
