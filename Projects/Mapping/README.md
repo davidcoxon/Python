@@ -1,6 +1,4 @@
-# under construction
-
-Sorry this project is currently under construction and not yet complete.
+# Mapping
 
 ## about the project
 
@@ -11,6 +9,12 @@ The project will include information on Google Maps, using longitude and latitud
 
 ## project gallery
 
-![Participant](Maps/artmix.png?raw=true)
+![participants](Maps/artmix.png?raw=true)
 ![Participant](Maps/learningparticipation20182.png?raw=true)
+![States Map](Maps/statessquare.png?raw=true)
+![Folium Map](Maps/foliumsquare.png?raw=true)
+
+## useful links
+
+
 
