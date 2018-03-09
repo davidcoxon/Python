@@ -9,10 +9,9 @@ The project will include information on Google Maps, using longitude and latitud
 
 ## project gallery
 
-![participants](Maps/artmix.png?raw=true)
-![Participant](Maps/learningparticipation20182.png?raw=true)
-![States Map](Maps/statessquare.png?raw=true)
-![Folium Map](Maps/foliumsquare.png?raw=true)
+![Googlemaps](Maps/participationsquare2.png?raw=true)
+![Bokeh](Maps/statessquareb.png?raw=true)
+![Folium Map](Maps/foliumsquareb.png?raw=true)
 
 ## useful links
 
