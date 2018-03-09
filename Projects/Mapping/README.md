@@ -9,7 +9,7 @@ The project will include information on Google Maps, using longitude and latitud
 
 ## project gallery
 
-![Googlemaps](Maps/participationsquare2.png?raw=true)
+![Googlemaps](Maps/participationsquareb.png?raw=true)
 ![Bokeh](Maps/statessquareb.png?raw=true)
 ![Folium Map](Maps/foliumsquareb.png?raw=true)
 
