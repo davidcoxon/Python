@@ -14,6 +14,7 @@ I started writing code using ‘Basic’ in the 80’s when my parents bought me
 
 ![Art Maker](Projects/Images/Gallery/artsquareb.png?raw=true)
 ![Regression](Projects/Images/Gallery/regressionsquareb.png?raw=true)
+![Map](Projects/Images/Gallery/mapsquareb.png?raw=true)
 ![WordCloud](Projects/Images/Gallery/wordcloudsqureb.png?raw=true)
 
 ## about this repository
