@@ -1,0 +1,559 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script>L_PREFER_CANVAS = false; L_NO_TOUCH = false; L_DISABLE_3D = false;</script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.2.0/dist/leaflet.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.2.0/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
+    <link rel="stylesheet" href="https://rawgit.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css" />
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+            <style> #map_611c95a3564e4e4089cfdc7eb086ec2f {
+                position : relative;
+                width : 100.0%;
+                height: 100.0%;
+                left: 0.0%;
+                top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_611c95a3564e4e4089cfdc7eb086ec2f" ></div>
+        
+</body>
+<script>    
+    
+
+            
+                var bounds = null;
+            
+
+            var map_611c95a3564e4e4089cfdc7eb086ec2f = L.map(
+                                  'map_611c95a3564e4e4089cfdc7eb086ec2f',
+                                  {center: [54.79921,-1.49828],
+                                  zoom: 10,
+                                  maxBounds: bounds,
+                                  layers: [],
+                                  worldCopyJump: false,
+                                  crs: L.CRS.EPSG3857
+                                 });
+            
+        
+    
+            var tile_layer_51181227a89842ef921f494b8f426085 = L.tileLayer(
+                'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+                {
+  "attribution": null,
+  "detectRetina": false,
+  "maxZoom": 18,
+  "minZoom": 1,
+  "noWrap": false,
+  "subdomains": "abc"
+}
+                ).addTo(map_611c95a3564e4e4089cfdc7eb086ec2f);
+        
+    
+            var circle_marker_b8ca7b3b65a34ab7bd1fd9a01d7c989d = L.circleMarker(
+                [54.96921,-1.59828],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3186cc",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3186cc",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 15,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_611c95a3564e4e4089cfdc7eb086ec2f);
+            
+    
+            var popup_90defb2362ed405c95cb5a7a70758323 = L.popup({maxWidth: '300'});
+
+            
+                var html_83467f150c714c778086ef6c26c41d14 = $('<div id="html_83467f150c714c778086ef6c26c41d14" style="width: 100.0%; height: 100.0%;">Baltic</div>')[0];
+                popup_90defb2362ed405c95cb5a7a70758323.setContent(html_83467f150c714c778086ef6c26c41d14);
+            
+
+            circle_marker_b8ca7b3b65a34ab7bd1fd9a01d7c989d.bindPopup(popup_90defb2362ed405c95cb5a7a70758323);
+
+            
+        
+    
+            var circle_marker_e2281509d64c4d07a49bdf60de1282a3 = L.circleMarker(
+                [54.89683,-1.57714],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3186cc",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3186cc",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 15,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_611c95a3564e4e4089cfdc7eb086ec2f);
+            
+    
+            var popup_78032b3b69f7404baf0320c9ea8828c2 = L.popup({maxWidth: '300'});
+
+            
+                var html_69fd19ec05794afd8d8c62569ca7b61b = $('<div id="html_69fd19ec05794afd8d8c62569ca7b61b" style="width: 100.0%; height: 100.0%;">Birtley Library</div>')[0];
+                popup_78032b3b69f7404baf0320c9ea8828c2.setContent(html_69fd19ec05794afd8d8c62569ca7b61b);
+            
+
+            circle_marker_e2281509d64c4d07a49bdf60de1282a3.bindPopup(popup_78032b3b69f7404baf0320c9ea8828c2);
+
+            
+        
+    
+            var circle_marker_5ece9aecdba64f288965021691e3c5e3 = L.circleMarker(
+                [54.96467,-1.71207],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3186cc",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3186cc",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 15,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_611c95a3564e4e4089cfdc7eb086ec2f);
+            
+    
+            var popup_7e76fd7d328543b6a189ee84befa0b16 = L.popup({maxWidth: '300'});
+
+            
+                var html_2909aa6852a1427fb907c61d59ed8999 = $('<div id="html_2909aa6852a1427fb907c61d59ed8999" style="width: 100.0%; height: 100.0%;">Blaydon Childrens Centre</div>')[0];
+                popup_7e76fd7d328543b6a189ee84befa0b16.setContent(html_2909aa6852a1427fb907c61d59ed8999);
+            
+
+            circle_marker_5ece9aecdba64f288965021691e3c5e3.bindPopup(popup_7e76fd7d328543b6a189ee84befa0b16);
+
+            
+        
+    
+            var circle_marker_0195240f7efe4e648b9954f75b848868 = L.circleMarker(
+                [54.91862,-1.8164099999999999],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3186cc",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3186cc",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 15,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_611c95a3564e4e4089cfdc7eb086ec2f);
+            
+    
+            var popup_4957b59ca66b49dcbecd9a9a90a08b3b = L.popup({maxWidth: '300'});
+
+            
+                var html_8a236ffa299c49cba3bad7106a9fb6a4 = $('<div id="html_8a236ffa299c49cba3bad7106a9fb6a4" style="width: 100.0%; height: 100.0%;">Chopwell Library</div>')[0];
+                popup_4957b59ca66b49dcbecd9a9a90a08b3b.setContent(html_8a236ffa299c49cba3bad7106a9fb6a4);
+            
+
+            circle_marker_0195240f7efe4e648b9954f75b848868.bindPopup(popup_4957b59ca66b49dcbecd9a9a90a08b3b);
+
+            
+        
+    
+            var circle_marker_707e787e0f78472494b56446bf3bd4c8 = L.circleMarker(
+                [54.92094,-1.58901],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3186cc",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3186cc",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 15,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_611c95a3564e4e4089cfdc7eb086ec2f);
+            
+    
+            var popup_8c6c49c5eb58413189e4f6025f465c9d = L.popup({maxWidth: '300'});
+
+            
+                var html_cc6eace999a342d59acf5d9f59644c3b = $('<div id="html_cc6eace999a342d59acf5d9f59644c3b" style="width: 100.0%; height: 100.0%;">Chowdene Childrens Centre</div>')[0];
+                popup_8c6c49c5eb58413189e4f6025f465c9d.setContent(html_cc6eace999a342d59acf5d9f59644c3b);
+            
+
+            circle_marker_707e787e0f78472494b56446bf3bd4c8.bindPopup(popup_8c6c49c5eb58413189e4f6025f465c9d);
+
+            
+        
+    
+            var circle_marker_87424ac7996d448fa2f8a063a5367580 = L.circleMarker(
+                [54.96679,-1.7891099999999998],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3186cc",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3186cc",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 15,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_611c95a3564e4e4089cfdc7eb086ec2f);
+            
+    
+            var popup_94fb06915f894def9a719a39d9db8838 = L.popup({maxWidth: '300'});
+
+            
+                var html_03fe4cfcb815482ea72cc4f9e564bc25 = $('<div id="html_03fe4cfcb815482ea72cc4f9e564bc25" style="width: 100.0%; height: 100.0%;">Crawcrook Library</div>')[0];
+                popup_94fb06915f894def9a719a39d9db8838.setContent(html_03fe4cfcb815482ea72cc4f9e564bc25);
+            
+
+            circle_marker_87424ac7996d448fa2f8a063a5367580.bindPopup(popup_94fb06915f894def9a719a39d9db8838);
+
+            
+        
+    
+            var circle_marker_73c8c33e5fc7489c95f595a38c83446c = L.circleMarker(
+                [54.94781999999999,-1.58344],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3186cc",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3186cc",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 15,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_611c95a3564e4e4089cfdc7eb086ec2f);
+            
+    
+            var popup_82c61fe55fba445198595c070fe5d675 = L.popup({maxWidth: '300'});
+
+            
+                var html_a81bda27b4494e55877e889e02681ef5 = $('<div id="html_a81bda27b4494e55877e889e02681ef5" style="width: 100.0%; height: 100.0%;">Deckham Childrens Centre</div>')[0];
+                popup_82c61fe55fba445198595c070fe5d675.setContent(html_a81bda27b4494e55877e889e02681ef5);
+            
+
+            circle_marker_73c8c33e5fc7489c95f595a38c83446c.bindPopup(popup_82c61fe55fba445198595c070fe5d675);
+
+            
+        
+    
+            var circle_marker_09b8fcc5d4f84dff94bd184fcf5c85d2 = L.circleMarker(
+                [54.95143,-1.6017],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3186cc",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3186cc",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 15,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_611c95a3564e4e4089cfdc7eb086ec2f);
+            
+    
+            var popup_472d8ee86c314a6d8c608fe9b067cb00 = L.popup({maxWidth: '300'});
+
+            
+                var html_3d588dcba2184cd7b2b83affc31df50c = $('<div id="html_3d588dcba2184cd7b2b83affc31df50c" style="width: 100.0%; height: 100.0%;">Gateshead Central Library</div>')[0];
+                popup_472d8ee86c314a6d8c608fe9b067cb00.setContent(html_3d588dcba2184cd7b2b83affc31df50c);
+            
+
+            circle_marker_09b8fcc5d4f84dff94bd184fcf5c85d2.bindPopup(popup_472d8ee86c314a6d8c608fe9b067cb00);
+
+            
+        
+    
+            var circle_marker_a26180f0311e4522bcd061a9e505a182 = L.circleMarker(
+                [54.94,-1.54651],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3186cc",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3186cc",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 15,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_611c95a3564e4e4089cfdc7eb086ec2f);
+            
+    
+            var popup_8a6ceb2434354a0981f6e85472b51ddb = L.popup({maxWidth: '300'});
+
+            
+                var html_e666255c83bf403c810f619a563a5afd = $('<div id="html_e666255c83bf403c810f619a563a5afd" style="width: 100.0%; height: 100.0%;">Leam Lane Library</div>')[0];
+                popup_8a6ceb2434354a0981f6e85472b51ddb.setContent(html_e666255c83bf403c810f619a563a5afd);
+            
+
+            circle_marker_a26180f0311e4522bcd061a9e505a182.bindPopup(popup_8a6ceb2434354a0981f6e85472b51ddb);
+
+            
+        
+    
+            var circle_marker_c2d91279de044d2cac4eb48eafced07a = L.circleMarker(
+                [54.95395,-1.54534],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3186cc",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3186cc",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 15,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_611c95a3564e4e4089cfdc7eb086ec2f);
+            
+    
+            var popup_0acbf0f39c05468c8a728c96a1c8aff0 = L.popup({maxWidth: '300'});
+
+            
+                var html_346a33ca260a4e0fa148eec68ac48e3d = $('<div id="html_346a33ca260a4e0fa148eec68ac48e3d" style="width: 100.0%; height: 100.0%;">Pelaw Library</div>')[0];
+                popup_0acbf0f39c05468c8a728c96a1c8aff0.setContent(html_346a33ca260a4e0fa148eec68ac48e3d);
+            
+
+            circle_marker_c2d91279de044d2cac4eb48eafced07a.bindPopup(popup_0acbf0f39c05468c8a728c96a1c8aff0);
+
+            
+        
+    
+            var circle_marker_e225489432754b729c2cae5beeadb55d = L.circleMarker(
+                [54.96988,-1.60355],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3186cc",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3186cc",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 15,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_611c95a3564e4e4089cfdc7eb086ec2f);
+            
+    
+            var popup_99e710ffcdc9423184cb466645c5fba6 = L.popup({maxWidth: '300'});
+
+            
+                var html_7ad1c6ad071840e2933bac8e9c9f644f = $('<div id="html_7ad1c6ad071840e2933bac8e9c9f644f" style="width: 100.0%; height: 100.0%;">Quayside Seaside</div>')[0];
+                popup_99e710ffcdc9423184cb466645c5fba6.setContent(html_7ad1c6ad071840e2933bac8e9c9f644f);
+            
+
+            circle_marker_e225489432754b729c2cae5beeadb55d.bindPopup(popup_99e710ffcdc9423184cb466645c5fba6);
+
+            
+        
+    
+            var circle_marker_e3728b443db94f0da377ffc8a4a4af02 = L.circleMarker(
+                [54.94344,-1.60269],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3186cc",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3186cc",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 15,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_611c95a3564e4e4089cfdc7eb086ec2f);
+            
+    
+            var popup_6d3b14773b3947d7a09620cc7283f388 = L.popup({maxWidth: '300'});
+
+            
+                var html_9df07b0b177b4e048c442be7727f8643 = $('<div id="html_9df07b0b177b4e048c442be7727f8643" style="width: 100.0%; height: 100.0%;">Saltwell Park</div>')[0];
+                popup_6d3b14773b3947d7a09620cc7283f388.setContent(html_9df07b0b177b4e048c442be7727f8643);
+            
+
+            circle_marker_e3728b443db94f0da377ffc8a4a4af02.bindPopup(popup_6d3b14773b3947d7a09620cc7283f388);
+
+            
+        
+    
+            var circle_marker_46823aa408ea4baf937ee85aa6dd0389 = L.circleMarker(
+                [54.888490000000004,-1.57693],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3186cc",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3186cc",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 15,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_611c95a3564e4e4089cfdc7eb086ec2f);
+            
+    
+            var popup_d293b2d65e16403ea0b9ed20413497ac = L.popup({maxWidth: '300'});
+
+            
+                var html_ff06c8b7944642a2ac7f478fa4e17cf1 = $('<div id="html_ff06c8b7944642a2ac7f478fa4e17cf1" style="width: 100.0%; height: 100.0%;">Thought Foundation</div>')[0];
+                popup_d293b2d65e16403ea0b9ed20413497ac.setContent(html_ff06c8b7944642a2ac7f478fa4e17cf1);
+            
+
+            circle_marker_46823aa408ea4baf937ee85aa6dd0389.bindPopup(popup_d293b2d65e16403ea0b9ed20413497ac);
+
+            
+        
+    
+            var circle_marker_be91006126454b47855e5a42127916c0 = L.circleMarker(
+                [54.9955,-1.53118],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3186cc",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3186cc",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 15,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_611c95a3564e4e4089cfdc7eb086ec2f);
+            
+    
+            var popup_3e06c1134cf3424084b36b968cfbdf9d = L.popup({maxWidth: '300'});
+
+            
+                var html_0d4429f8cb4f4fafa17470227cb7124e = $('<div id="html_0d4429f8cb4f4fafa17470227cb7124e" style="width: 100.0%; height: 100.0%;">Wallsend Festival </div>')[0];
+                popup_3e06c1134cf3424084b36b968cfbdf9d.setContent(html_0d4429f8cb4f4fafa17470227cb7124e);
+            
+
+            circle_marker_be91006126454b47855e5a42127916c0.bindPopup(popup_3e06c1134cf3424084b36b968cfbdf9d);
+
+            
+        
+    
+            var circle_marker_f95482e13dc84d249b32617caf1d360c = L.circleMarker(
+                [54.94624,-1.67747],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3186cc",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#3186cc",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 15,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_611c95a3564e4e4089cfdc7eb086ec2f);
+            
+    
+            var popup_b8836abfa29c44aba1f28b1fef54dfc9 = L.popup({maxWidth: '300'});
+
+            
+                var html_638b3f39ba5e460896fb8ceff0bea620 = $('<div id="html_638b3f39ba5e460896fb8ceff0bea620" style="width: 100.0%; height: 100.0%;">Whickham Library</div>')[0];
+                popup_b8836abfa29c44aba1f28b1fef54dfc9.setContent(html_638b3f39ba5e460896fb8ceff0bea620);
+            
+
+            circle_marker_f95482e13dc84d249b32617caf1d360c.bindPopup(popup_b8836abfa29c44aba1f28b1fef54dfc9);
+
+            
+        
+</script>
