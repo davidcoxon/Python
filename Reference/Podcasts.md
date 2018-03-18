@@ -38,7 +38,8 @@ Partially derivative are taking a break right now but have an extensive archive 
 
 ## pythonbytes
 
-Python headlines 15 minute conversations on the topical items of the week with Michael Kennedy
+Python headlines 15 minute conversations on the topical items of the week with Michael Kennedy.
+
 [https://pythonbytes.fm/](https://pythonbytes.fm/)
 
 ## talk python to me
