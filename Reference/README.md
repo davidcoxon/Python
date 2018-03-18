@@ -1,17 +1,38 @@
-# Python
+# Random Python Reference Material
 
-This repository is a public collection of Reference Materials produced by David Coxon while learning Pyton in 2017. It consists mainly of Jupyter notebooks.
+## a repository by david coxon
 
-The repository is intended as a working repository which will be regularly updated and which can refer back to when reviewing learning or shared with other python students looking for resources or referebce points.
+![Python](../Projects/Images/python.png?raw=true)  
 
-The key documents in this repository are :
+## about david coxon
 
-Libraries.ipynb - a list of useful libraries divided into areas of use.
+I am currently Head of IT at BALTIC Centre of Contemporary Art, in Gateshead, UK. The Role of Head of IT, increasingly includes collecting and collating Statistical data on everything from visitor numbers to Google Adwords spend, and analysing data on anything form sales performance to geographical spread of events participants.
 
-Data_Sources.ipynb - a list of useful datasets
+I started studying R in 2016 on Coursera with John Hopkins University, I then went on to complete the Khan Academy Statistics and Probability Courses and followed that up with studying the Data Science Python track on DataCamp in 2017.
 
-Useful Resources.ipynb - a list of links to recommended reading and useful online tools.
+I predominantly I use Python for Data Analysis, but I’m interested in all aspects of Data Science and hope that as i progress i’ll play an active role in the local Python and Data Science groups in Newcastle.
 
-Data Camp Python Modules.ipynb - a list of Data Camp Courses and their content.
 
-I have 2 further Python Repositories on Github which remain private either because they caontain real data of a confidential nature relating to organisations that I am working with or because they are specific notes or code based very closely on content from Data Camp which is a subscription service and i don't have permission to share publically.
+## about this repository
+
+During the course of my studies, I have compiled various lists, of books, blogs, podcasts, libraries and collections of datasets. I originally created this repository as somewhere I could store these lists for my own personal use.
+
+As I have become more involved in the DataCamp slack community, I have found an increasing number of people asking for reading recommendations and information of good sources of data. So I’ve  share this part of my github repository. 
+
+Since sharing the repository I’ve added a number of juypter notebooks with various code snippets that I thought fellow students might find useful. 
+
+## other repositories
+
+I also have a [Projects Repository.](https://github.com/davidcoxon/Python/tree/master/Projects).This is meant as a place where I can experiment with the different techniques that I am learning, and get feedback from the Python community on how I can improve upon my coding. 
+
+## useful links
+
+[DataCamp](https://www.datacamp.com/)
+
+[North East Python Group](https://www.pythonnortheast.com/)
+
+[North East Data Science Group](https://www.meetup.com/Newcastle-Upon-Tyne-Data-Science-Meetup/)
+
+
+
+
