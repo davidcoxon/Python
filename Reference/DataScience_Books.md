@@ -64,9 +64,15 @@
 
 ## Machine Learning
 
+**Introduction to Machine Learning with Python** by *Andreas C. Mueller and Sarah Guido*
+
+    - Andreas C. Mueller in a ML instructor with Data Camp
+
 **Pattern Recognition and Machine Learning** by *Christopher Bishop*
 
 **Python machine learning** by *sebastian Raschka*
+
+
 
 ## other books
 
