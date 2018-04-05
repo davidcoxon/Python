@@ -13,9 +13,9 @@ For this project I’ve tweaked the original code to make it work with Python 3.
 
 ## project gallery
 
-![grid](Images/grid1.png?raw=true)
-![winner](Images/winner3.png?raw=true)
-![oxo](Images/OXO3.png?raw=true)
+![grid](Images/grid1small.png?raw=true)
+![winner](Images/winner3small.png?raw=true)
+![oxo](Images/OXO3small.png?raw=true)
 
 ## future developments
 
