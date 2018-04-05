@@ -24,10 +24,12 @@ When I’ve learnt a bit more about machine learning, I plan to come back to thi
 ## some useful links
 
 [Code Club](https://codeclubprojects.org/en-GB/)
+
 [tk](https://docs.python.org/3/library/tk.html)
 
 
 ## related projects
 
 [Art Maker](https://github.com/davidcoxon/Python/blob/master/Projects/Art%20Making/tkinter_patterns.ipynb)
+
 [Drawing with Turtles](https://github.com/davidcoxon/Python/blob/master/Projects/Drawing%20with%20Turtles/Turtle_Paterns.ipynb)
