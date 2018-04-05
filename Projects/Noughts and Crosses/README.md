@@ -1,7 +1,7 @@
 # Noughts and Crosses
 ##  an game of x’s and O’s
 
-![Python](Images/python.png?raw=true)
+![Python](../Images/python.png?raw=true)
 
 ## about this project
 
