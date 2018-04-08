@@ -77,6 +77,8 @@ Crowd-sourced code mentorship.
 
 # Competitions
 
+https://www.kaggle.com/c/titanic - tutorial on the titanic competition
+
 https://www.kaggle.com/competitions - Kaggle data science challenges
 
 http://www.pythonchallenge.com/ - Logical problems that you can use python to solve
