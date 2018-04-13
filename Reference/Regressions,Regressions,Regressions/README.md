@@ -2,11 +2,21 @@
 
 ## a Linear Regression project by david coxon
 
-![Python](../Projects/Images/python.png?raw=true)  
+![Python](Images/python.png?raw=true)  
+
+## gallery
+
+![LinearRegression](Images/statsmodel_linear.png?raw=true)
+![HigherOrderRegression](Images/higherorder.png?raw=true)
+![HeatMap](Images/seabornheatmap.png?raw=true)
 
 ## about this repository
 
-Add text here
+Linear Regressions are one of building blocks of data science, and as such there are a number of of different approaches to producing Linear Regressions and a number of different ways we can can describe or talk about. 
+
+Within this project we will have a look at several different approaches to generating a linear regression, and we’ll explore the ways we can use, measure and describe the resulting regressions.
+
+We'll use the same dataset for each of the regressions we produce and see how the different techniques compare.
 
 ## other repositories
 
